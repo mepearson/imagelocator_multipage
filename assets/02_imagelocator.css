@@ -1,0 +1,25 @@
+img[src*="#thumbnail"] {
+   max-width:30vw;
+   max-height:90vw;
+}
+
+.image-border {
+  /* max-width:33vw; */
+  border: 1px solid grey;
+  border-radius: 5px;
+  /* float: left; */
+  /* margin: 10px; */
+  padding: 15px;
+}
+
+.popout {
+  white-space: pre-wrap;
+}
+
+.divHide {
+  display: none;
+}
+
+.divShow {
+  display: block;
+}
